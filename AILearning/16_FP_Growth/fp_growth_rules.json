@@ -1,0 +1,370 @@
+[
+  {
+    "if_buy": [
+      "Tablet"
+    ],
+    "then_buy": [
+      "Stylus"
+    ],
+    "support": 0.233,
+    "confidence": 0.875,
+    "lift": 3.75
+  },
+  {
+    "if_buy": [
+      "Stylus"
+    ],
+    "then_buy": [
+      "Tablet"
+    ],
+    "support": 0.233,
+    "confidence": 1.0,
+    "lift": 3.75
+  },
+  {
+    "if_buy": [
+      "Tablet"
+    ],
+    "then_buy": [
+      "Case",
+      "Stylus"
+    ],
+    "support": 0.167,
+    "confidence": 0.625,
+    "lift": 3.75
+  },
+  {
+    "if_buy": [
+      "Case",
+      "Stylus"
+    ],
+    "then_buy": [
+      "Tablet"
+    ],
+    "support": 0.167,
+    "confidence": 1.0,
+    "lift": 3.75
+  },
+  {
+    "if_buy": [
+      "Stylus"
+    ],
+    "then_buy": [
+      "Case",
+      "Tablet"
+    ],
+    "support": 0.167,
+    "confidence": 0.714,
+    "lift": 3.571
+  },
+  {
+    "if_buy": [
+      "Case",
+      "Tablet"
+    ],
+    "then_buy": [
+      "Stylus"
+    ],
+    "support": 0.167,
+    "confidence": 0.833,
+    "lift": 3.571
+  },
+  {
+    "if_buy": [
+      "Charger"
+    ],
+    "then_buy": [
+      "Case",
+      "Phone"
+    ],
+    "support": 0.167,
+    "confidence": 0.714,
+    "lift": 3.061
+  },
+  {
+    "if_buy": [
+      "Case",
+      "Phone"
+    ],
+    "then_buy": [
+      "Charger"
+    ],
+    "support": 0.167,
+    "confidence": 0.714,
+    "lift": 3.061
+  },
+  {
+    "if_buy": [
+      "Charger"
+    ],
+    "then_buy": [
+      "Phone"
+    ],
+    "support": 0.233,
+    "confidence": 1.0,
+    "lift": 3.0
+  },
+  {
+    "if_buy": [
+      "Phone"
+    ],
+    "then_buy": [
+      "Charger"
+    ],
+    "support": 0.233,
+    "confidence": 0.7,
+    "lift": 3.0
+  },
+  {
+    "if_buy": [
+      "Phone"
+    ],
+    "then_buy": [
+      "Case",
+      "Charger"
+    ],
+    "support": 0.167,
+    "confidence": 0.5,
+    "lift": 3.0
+  },
+  {
+    "if_buy": [
+      "Case",
+      "Charger"
+    ],
+    "then_buy": [
+      "Phone"
+    ],
+    "support": 0.167,
+    "confidence": 1.0,
+    "lift": 3.0
+  },
+  {
+    "if_buy": [
+      "Mouse"
+    ],
+    "then_buy": [
+      "Laptop"
+    ],
+    "support": 0.333,
+    "confidence": 1.0,
+    "lift": 2.5
+  },
+  {
+    "if_buy": [
+      "Laptop"
+    ],
+    "then_buy": [
+      "Mouse"
+    ],
+    "support": 0.333,
+    "confidence": 0.833,
+    "lift": 2.5
+  },
+  {
+    "if_buy": [
+      "Laptop"
+    ],
+    "then_buy": [
+      "Keyboard",
+      "Mouse"
+    ],
+    "support": 0.233,
+    "confidence": 0.583,
+    "lift": 2.5
+  },
+  {
+    "if_buy": [
+      "Keyboard",
+      "Mouse"
+    ],
+    "then_buy": [
+      "Laptop"
+    ],
+    "support": 0.233,
+    "confidence": 1.0,
+    "lift": 2.5
+  },
+  {
+    "if_buy": [
+      "Monitor"
+    ],
+    "then_buy": [
+      "Laptop"
+    ],
+    "support": 0.167,
+    "confidence": 1.0,
+    "lift": 2.5
+  },
+  {
+    "if_buy": [
+      "Mouse"
+    ],
+    "then_buy": [
+      "Keyboard",
+      "Laptop"
+    ],
+    "support": 0.233,
+    "confidence": 0.7,
+    "lift": 2.333
+  },
+  {
+    "if_buy": [
+      "Keyboard",
+      "Laptop"
+    ],
+    "then_buy": [
+      "Mouse"
+    ],
+    "support": 0.233,
+    "confidence": 0.778,
+    "lift": 2.333
+  },
+  {
+    "if_buy": [
+      "Keyboard"
+    ],
+    "then_buy": [
+      "Laptop"
+    ],
+    "support": 0.3,
+    "confidence": 0.9,
+    "lift": 2.25
+  },
+  {
+    "if_buy": [
+      "Laptop"
+    ],
+    "then_buy": [
+      "Keyboard"
+    ],
+    "support": 0.3,
+    "confidence": 0.75,
+    "lift": 2.25
+  },
+  {
+    "if_buy": [
+      "Mouse"
+    ],
+    "then_buy": [
+      "Keyboard"
+    ],
+    "support": 0.233,
+    "confidence": 0.7,
+    "lift": 2.1
+  },
+  {
+    "if_buy": [
+      "Keyboard"
+    ],
+    "then_buy": [
+      "Mouse"
+    ],
+    "support": 0.233,
+    "confidence": 0.7,
+    "lift": 2.1
+  },
+  {
+    "if_buy": [
+      "Keyboard"
+    ],
+    "then_buy": [
+      "Laptop",
+      "Mouse"
+    ],
+    "support": 0.233,
+    "confidence": 0.7,
+    "lift": 2.1
+  },
+  {
+    "if_buy": [
+      "Laptop",
+      "Mouse"
+    ],
+    "then_buy": [
+      "Keyboard"
+    ],
+    "support": 0.233,
+    "confidence": 0.7,
+    "lift": 2.1
+  },
+  {
+    "if_buy": [
+      "Tablet"
+    ],
+    "then_buy": [
+      "Case"
+    ],
+    "support": 0.2,
+    "confidence": 0.75,
+    "lift": 1.731
+  },
+  {
+    "if_buy": [
+      "Charger"
+    ],
+    "then_buy": [
+      "Case"
+    ],
+    "support": 0.167,
+    "confidence": 0.714,
+    "lift": 1.648
+  },
+  {
+    "if_buy": [
+      "Charger",
+      "Phone"
+    ],
+    "then_buy": [
+      "Case"
+    ],
+    "support": 0.167,
+    "confidence": 0.714,
+    "lift": 1.648
+  },
+  {
+    "if_buy": [
+      "Stylus"
+    ],
+    "then_buy": [
+      "Case"
+    ],
+    "support": 0.167,
+    "confidence": 0.714,
+    "lift": 1.648
+  },
+  {
+    "if_buy": [
+      "Stylus",
+      "Tablet"
+    ],
+    "then_buy": [
+      "Case"
+    ],
+    "support": 0.167,
+    "confidence": 0.714,
+    "lift": 1.648
+  },
+  {
+    "if_buy": [
+      "Case"
+    ],
+    "then_buy": [
+      "Phone"
+    ],
+    "support": 0.233,
+    "confidence": 0.538,
+    "lift": 1.615
+  },
+  {
+    "if_buy": [
+      "Phone"
+    ],
+    "then_buy": [
+      "Case"
+    ],
+    "support": 0.233,
+    "confidence": 0.7,
+    "lift": 1.615
+  }
+]

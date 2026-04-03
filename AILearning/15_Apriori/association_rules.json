@@ -1,0 +1,322 @@
+[
+  {
+    "antecedent": [
+      "Sugar"
+    ],
+    "consequent": [
+      "Cream"
+    ],
+    "support": 0.2,
+    "confidence": 0.6,
+    "lift": 2.5714
+  },
+  {
+    "antecedent": [
+      "Cream"
+    ],
+    "consequent": [
+      "Sugar"
+    ],
+    "support": 0.2,
+    "confidence": 0.8571,
+    "lift": 2.5714
+  },
+  {
+    "antecedent": [
+      "Sugar"
+    ],
+    "consequent": [
+      "Coffee",
+      "Cream"
+    ],
+    "support": 0.2,
+    "confidence": 0.6,
+    "lift": 2.5714
+  },
+  {
+    "antecedent": [
+      "Cream"
+    ],
+    "consequent": [
+      "Coffee",
+      "Sugar"
+    ],
+    "support": 0.2,
+    "confidence": 0.8571,
+    "lift": 2.5714
+  },
+  {
+    "antecedent": [
+      "Coffee",
+      "Sugar"
+    ],
+    "consequent": [
+      "Cream"
+    ],
+    "support": 0.2,
+    "confidence": 0.6,
+    "lift": 2.5714
+  },
+  {
+    "antecedent": [
+      "Coffee",
+      "Cream"
+    ],
+    "consequent": [
+      "Sugar"
+    ],
+    "support": 0.2,
+    "confidence": 0.8571,
+    "lift": 2.5714
+  },
+  {
+    "antecedent": [
+      "Sugar"
+    ],
+    "consequent": [
+      "Coffee"
+    ],
+    "support": 0.3333,
+    "confidence": 1.0,
+    "lift": 2.5
+  },
+  {
+    "antecedent": [
+      "Coffee"
+    ],
+    "consequent": [
+      "Sugar"
+    ],
+    "support": 0.3333,
+    "confidence": 0.8333,
+    "lift": 2.5
+  },
+  {
+    "antecedent": [
+      "Cookies"
+    ],
+    "consequent": [
+      "Coffee"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 2.5
+  },
+  {
+    "antecedent": [
+      "Coffee"
+    ],
+    "consequent": [
+      "Cookies"
+    ],
+    "support": 0.2,
+    "confidence": 0.5,
+    "lift": 2.5
+  },
+  {
+    "antecedent": [
+      "Coffee"
+    ],
+    "consequent": [
+      "Cream"
+    ],
+    "support": 0.2333,
+    "confidence": 0.5833,
+    "lift": 2.5
+  },
+  {
+    "antecedent": [
+      "Cream"
+    ],
+    "consequent": [
+      "Coffee"
+    ],
+    "support": 0.2333,
+    "confidence": 1.0,
+    "lift": 2.5
+  },
+  {
+    "antecedent": [
+      "Coffee"
+    ],
+    "consequent": [
+      "Cream",
+      "Sugar"
+    ],
+    "support": 0.2,
+    "confidence": 0.5,
+    "lift": 2.5
+  },
+  {
+    "antecedent": [
+      "Cream",
+      "Sugar"
+    ],
+    "consequent": [
+      "Coffee"
+    ],
+    "support": 0.2,
+    "confidence": 1.0,
+    "lift": 2.5
+  },
+  {
+    "antecedent": [
+      "Butter"
+    ],
+    "consequent": [
+      "Bread"
+    ],
+    "support": 0.4,
+    "confidence": 1.0,
+    "lift": 2.1429
+  },
+  {
+    "antecedent": [
+      "Bread"
+    ],
+    "consequent": [
+      "Butter"
+    ],
+    "support": 0.4,
+    "confidence": 0.8571,
+    "lift": 2.1429
+  },
+  {
+    "antecedent": [
+      "Bread"
+    ],
+    "consequent": [
+      "Butter",
+      "Milk"
+    ],
+    "support": 0.2333,
+    "confidence": 0.5,
+    "lift": 2.1429
+  },
+  {
+    "antecedent": [
+      "Butter",
+      "Milk"
+    ],
+    "consequent": [
+      "Bread"
+    ],
+    "support": 0.2333,
+    "confidence": 1.0,
+    "lift": 2.1429
+  },
+  {
+    "antecedent": [
+      "Eggs"
+    ],
+    "consequent": [
+      "Milk"
+    ],
+    "support": 0.2333,
+    "confidence": 0.7778,
+    "lift": 1.9444
+  },
+  {
+    "antecedent": [
+      "Milk"
+    ],
+    "consequent": [
+      "Eggs"
+    ],
+    "support": 0.2333,
+    "confidence": 0.5833,
+    "lift": 1.9444
+  },
+  {
+    "antecedent": [
+      "Butter"
+    ],
+    "consequent": [
+      "Bread",
+      "Milk"
+    ],
+    "support": 0.2333,
+    "confidence": 0.5833,
+    "lift": 1.9444
+  },
+  {
+    "antecedent": [
+      "Bread",
+      "Milk"
+    ],
+    "consequent": [
+      "Butter"
+    ],
+    "support": 0.2333,
+    "confidence": 0.7778,
+    "lift": 1.9444
+  },
+  {
+    "antecedent": [
+      "Bread"
+    ],
+    "consequent": [
+      "Milk"
+    ],
+    "support": 0.3,
+    "confidence": 0.6429,
+    "lift": 1.6071
+  },
+  {
+    "antecedent": [
+      "Milk"
+    ],
+    "consequent": [
+      "Bread"
+    ],
+    "support": 0.3,
+    "confidence": 0.75,
+    "lift": 1.6071
+  },
+  {
+    "antecedent": [
+      "Butter"
+    ],
+    "consequent": [
+      "Milk"
+    ],
+    "support": 0.2333,
+    "confidence": 0.5833,
+    "lift": 1.4583
+  },
+  {
+    "antecedent": [
+      "Milk"
+    ],
+    "consequent": [
+      "Butter"
+    ],
+    "support": 0.2333,
+    "confidence": 0.5833,
+    "lift": 1.4583
+  },
+  {
+    "antecedent": [
+      "Milk"
+    ],
+    "consequent": [
+      "Bread",
+      "Butter"
+    ],
+    "support": 0.2333,
+    "confidence": 0.5833,
+    "lift": 1.4583
+  },
+  {
+    "antecedent": [
+      "Bread",
+      "Butter"
+    ],
+    "consequent": [
+      "Milk"
+    ],
+    "support": 0.2333,
+    "confidence": 0.5833,
+    "lift": 1.4583
+  }
+]
